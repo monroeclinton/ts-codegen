@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "transpile": "ts-node main.ts"
+  },
+  "dependencies": {
+    "typescript": "^5.4.3"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2"
+  }
+}
